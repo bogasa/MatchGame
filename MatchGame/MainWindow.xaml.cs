@@ -90,7 +90,7 @@ namespace MatchGame
             {
                 matchesFound++;
                 textBlock.Visibility = Visibility.Hidden;
-                findingMatch = true;
+                findingMatch = false;
             }
             else
             {
